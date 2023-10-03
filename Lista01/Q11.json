@@ -1,0 +1,31 @@
+{
+    "nome_empresa": "Hippogriff",
+    "ano_fundacao": 2021,
+    "categorias_produto": [
+        "Eletronicos",
+        "Moda Esportiva"
+    ],
+    "endereco": {
+        "rua": "Facisa",
+        "cidade": "Campina Grande",
+        "estado": "PB",
+        "CEP": "12345-678"
+    },
+    "produtos": [
+        {
+            "nome": "Camisa Flamengo",
+            "preco": 349.9,
+            "estoque": 300,
+            "desconto": null
+        },
+        {
+            "nome": "PS5",
+            "preco": 3599.99,
+            "estoque": 72,
+            "desconto": {
+                "percentual": 10,
+                "validade": "2023-12-31"
+            }
+        }
+    ]
+}

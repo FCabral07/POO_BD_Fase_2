@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<produtos>
+   <produto>
+      <id>1</id>
+      <nome>PS5</nome>
+      <caracteristica>Cor: Branco</caracteristica>
+      <caracteristica>Modelo: PS1625</caracteristica>
+      <caracteristica>Categoria: Eletronico</caracteristica>
+      <caracteristica>Idade mínima: 6 anos</caracteristica>
+      <caracteristica>Garantia: 1 ano</caracteristica>
+   </produto>
+   <produto>
+      <id>2</id>
+      <nome>Geladeira</nome>
+      <caracteristica>Cor: Chumbo</caracteristica>
+      <caracteristica>Modelo: Samsung FrostFree</caracteristica>
+      <caracteristica>Categoria: Eletrodomestico</caracteristica>
+      <caracteristica>Idade mínima: 14 anos</caracteristica>
+      <caracteristica>Garantia: 3 anos</caracteristica>
+   </produto>
+</produtos>

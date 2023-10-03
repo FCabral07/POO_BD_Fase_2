@@ -1,2 +1,1 @@
-# POO_BD_Fase_2
- 
+# Entrega Fase 02 da disciplina de POO com BD
